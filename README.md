@@ -23,7 +23,8 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" title="CodePen" alt="CodePen" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <details>
   <summary><h2>Some of my projects</h2></summary>
           <img src="https://github.com/Vardan2009/Vardan2009/assets/70532109/11ea7e89-48f8-453b-be4a-9100c037da18" height="70px"><br>
