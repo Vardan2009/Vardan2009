@@ -42,11 +42,7 @@
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
       <hr>
-          <img src="https://github.com/Vardan2009/Vardan2009/assets/70532109/9498f437-0947-4154-a463-ef30022acc57" height="70px"/><br>
-          Mist is a simple programming language written in C#. It features a lexer, a parser and an interpreter that that works fairly well. <a href="https://github.com/Vardan2009/mist-programming-language" target="_blank">Check it out here</a><br><br>
-          Tools Used:&nbsp;
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-      <hr>
+        <h2>You can check out my other projects at my profile!</h2>
     </details>
       <h2>:fire: Stats</h2>
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br>
