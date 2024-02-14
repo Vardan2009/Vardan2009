@@ -27,7 +27,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <details>
   <summary><h2>Some of my projects</h2></summary>
-          <img src="https://github.com/Vardan2009/Vardan2009/assets/70532109/11ea7e89-48f8-453b-be4a-9100c037da18" height="70px"><br>
+          <img src="https://github.com/Vardan2009/Vardan2009/quizzly.png" height="70px"><br>
           Quizzly is a platform where users can create and share quizzes! Currently under development.<br>
           I'm Creating it for TUMO's annual <a href="https://tumo.org/vahe-lucie-award-2023-winners/">Vahe and Lucie 2024 awards</a><br><i>This repository is private</i><br><br>
           Tools Used:&nbsp;
