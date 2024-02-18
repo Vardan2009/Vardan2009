@@ -47,8 +47,8 @@
     </details>
       <h2>:fire: Stats</h2>
     <div style="width:30%">
-      <a href="https://git.io/streak-stats"><img style="width:40%" src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br><br>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&layout=donut" alt="Top Langs"/></a>
+      <a href="https://git.io/streak-stats"><img style="width:40%; min-width:400px" src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br><br>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:40%; min-width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&layout=donut" alt="Top Langs"/></a>
     </div>
 
   
