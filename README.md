@@ -27,27 +27,30 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <details>
   <summary><h2>Some of my projects</h2></summary>
+    <br> <br> <br> <br>
           <img src="https://github.com/Vardan2009/Vardan2009/blob/a7de687082fed7b4a084cbc231ca3dfe1140ad49/quizzly.png" height="70px"><br>
           Quizzly is a platform where users can create and share quizzes! Currently under development.<br>
-          I'm Creating it for TUMO's annual <a href="https://tumo.org/vahe-lucie-award-2023-winners/">Vahe and Lucie 2024 awards</a><br><i>This repository is private</i><br><br>
+          I'm Creating it for TUMO's annual <a href="https://tumo.org/vahe-lucie-award-2023-winners/">Vahe and Lucie 2024 awards</a><br><i>This repository is private (for now, at least)</i><br><br>
           Tools Used:&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-      <hr>
+      <br> <br> <br> <br>
           <img src="https://github.com/Vardan2009/Vardan2009/assets/70532109/a83b7659-a999-44cd-be54-861b1aad9b90" height="70px"><br>
           VIAX is a very simple Operating System Created in Assembly and C. <a href="https://github.com/Vardan2009/viax" target="_blank">Check it out here</a><br><br>
           Tools Used:&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-      <hr>
+       <br> <br> <br> <br>
         <h2>You can check out my other projects at my profile!</h2>
     </details>
       <h2>:fire: Stats</h2>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&layout=donut" alt="Top Langs"/></a>
-      
+    <div style="width:30%">
+      <a href="https://git.io/streak-stats"><img style="width:40%" src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br><br>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&layout=donut" alt="Top Langs"/></a>
+    </div>
+
   
 </div>
 
