@@ -42,8 +42,9 @@
           Tools Used:&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-       <br> <br> <br> <br>
-        <h2>You can check out my other projects at my profile!</h2>
+       <br> <br>
+        <h5>You can check out my other projects at <a href="https://github.com/Vardan2009" target="_blank">my profile</a>!</h5>
+     <br> <br>
     </details>
       <h2>:fire: Stats</h2>
     <div style="width:30%">
