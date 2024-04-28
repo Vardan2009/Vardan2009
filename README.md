@@ -25,7 +25,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" title="CodePen" alt="CodePen" width="40" height="40"/>&nbsp;
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 
-  <h3>Currently working on</h3>
+  <h3>Some of my projects</h3>
       <img src="https://github.com/Vardan2009/Vardan2009/blob/main/lumina.png" style="width:500px" />
       <p>Lumina Code Editor is a simple and lightweight code and text editor</p>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
