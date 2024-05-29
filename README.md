@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there 👋</h3><hr>
-  My name is <b>Vardan</b>, I'm 14 years old. I am a student at <a href="https://tumo.org">TUMO Center for Creative Technologies, Yerevan</a>. I am mainly interested in <b>Programming</b>, <b>Game Development</b> and <b>Web Development</b>. I usually build some personal projects as a hobby.
+  My name is <b>Vardan</b>, I'm 14 years old. I am mainly interested in <b>Programming</b>, <b>Game Development</b> and <b>Web Development</b>. I usually build some personal projects as a hobby.
   <h3>:fire: Skills</h3>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
