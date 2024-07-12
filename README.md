@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>Hi there 👋</h3><hr>
-  My name is <b>Vardan</b>, I'm 14 years old. I am mainly interested in <b>Programming</b>, <b>Game Development</b> and <b>Web Development</b>. I usually build some personal projects as a hobby.
-  <h3>:fire: Skills</h3>
+  <h3>Hi 👋</h3><hr>
+  My name is <b>Vardan</b>, I'm 15 years old. I am mainly interested in <b>Programming</b>, <b>Game Development</b> and <b>Web Development</b>. I usually build some personal projects as a hobby.
+  <h3>Skills</h3>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@
       <h3>Stats</h3>
     <div style="width:30%">
       <a href="https://git.io/streak-stats"><img style="width:400px" src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br><br>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&layout=donut" alt="Top Langs"/></a>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark" alt="Top Langs"/></a>
     </div>
 
   
