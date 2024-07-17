@@ -35,8 +35,8 @@
     <h3>Tools</h3>
     <table>
         <tr>
-            <td>IDEs</td>
-            <td><img src="https://skillicons.dev/icons?i=androidstudio,codepen,vscode,visualstudio&perline=4"/></td>
+            <td>IDEs and Editors</td>
+            <td><img src="https://skillicons.dev/icons?i=androidstudio,codepen,vscode,vim,neovim,visualstudio&perline=4"/></td>
         </tr>
         <tr>
             <td>Operating Systems</td>
