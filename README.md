@@ -9,11 +9,11 @@
         </tr>
         <tr>
             <td>Programming Languages</td>
-            <td><img src="https://skillicons.dev/icons?i=c,cs,cpp,py"/></td>
+            <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py"/></td>
         </tr>
         <tr>
             <td>Web Development</td>
-            <td><img src="https://skillicons.dev/icons?i=html,css,js"/></td>
+            <td><img src="https://skillicons.dev/icons?i=html,css,js,ts"/></td>
         </tr>
         <tr>
             <td>Frameworks and Libraries</td>
