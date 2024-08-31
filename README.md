@@ -54,6 +54,6 @@
     <h3>Stats</h3>
     <p>
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400"/></a><br><br>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&langs_count=8" alt="Top Languages" width="400"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&langs_count=9" alt="Top Languages" width="400"/></a>
     </p>
 </div>
