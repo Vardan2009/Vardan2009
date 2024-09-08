@@ -1,7 +1,6 @@
 <div align="center">
-    <h3>Hi 👋</h3>
-    <p>My name is <b>Vardan</b>. I'm interested in <b>Programming</b>, <b>Game Development</b>, and <b>Web Development</b>. I build personal projects as a hobby.</p>
-    <h3>Skills</h3>
+    <p>Self-taught programming hobbyist and high school student</p>
+    <h5>Skills</h5>
     <table>
         <tr>
             <td>Embedded Systems</td>
@@ -32,7 +31,7 @@
             <td><img src="https://skillicons.dev/icons?i=wordpress"/></td>
         </tr>
     </table>
-    <h3>Tools</h3>
+    <h5>Tools</h5>
     <table>
         <tr>
             <td>IDEs and Editors</td>
@@ -51,9 +50,4 @@
             <td><img src="https://skillicons.dev/icons?i=git&perline=1"/></td>
         </tr>
     </table>
-    <h3>Stats</h3>
-    <p>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vardan2009&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400"/></a><br><br>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardan2009&theme=dark&langs_count=8" alt="Top Languages" width="400"/></a>
-    </p>
 </div>
