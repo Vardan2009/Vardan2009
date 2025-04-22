@@ -46,7 +46,7 @@
                     <td><img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2"/></td>
                 </tr>
                 <tr>
-                    <td>Command-Line Tools</td>
+                    <td>Command-Line Shells</td>
                     <td><img src="https://skillicons.dev/icons?i=pwsh,bash&perline=2"/></td>
                 </tr>
                 <tr>
