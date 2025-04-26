@@ -18,7 +18,7 @@
                 </tr>
                 <tr>
                     <td>Frameworks and Libraries</td>
-                    <td><img src="https://skillicons.dev/icons?i=angular,react,electron"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=vue,svelte,angular,react,electron"/></td>
                 </tr>
                 <tr>
                     <td>Backend and Databases</td>
