@@ -26,7 +26,7 @@
                 </tr>
                 <tr>
                     <td>Game Development</td>
-                    <td><img src="https://skillicons.dev/icons?i=unity&perline=5"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=unity,unreal&perline=5"/></td>
                 </tr>
                 <tr>
                     <td>CMS</td>
@@ -48,6 +48,10 @@
                 <tr>
                     <td>Command-Line Shells</td>
                     <td><img src="https://skillicons.dev/icons?i=pwsh,bash&perline=5"/></td>
+                </tr>
+                <tr>
+                    <td>Build Systems</td>
+                    <td><img src="https://skillicons.dev/icons?i=cmake&perline=5"/></td>
                 </tr>
                 <tr>
                     <td>Version Control</td>
