@@ -10,23 +10,23 @@
                 </tr>
                 <tr>
                     <td>Programming Languages</td>
-                    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py"/></td>
                 </tr>
                 <tr>
                     <td>Web Development</td>
-                    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,php"/></td>
                 </tr>
                 <tr>
                     <td>Frameworks and Libraries</td>
-                    <td><img src="https://skillicons.dev/icons?i=vue,svelte,angular,react,electron,qt,dotnet"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=vue,svelte,dotnet"/></td>
                 </tr>
                 <tr>
                     <td>Backend and Databases</td>
-                    <td><img src="https://skillicons.dev/icons?i=firebase,nodejs,php,mysql,express"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=firebase,mysql,express"/></td>
                 </tr>
                 <tr>
                     <td>Game Development</td>
-                    <td><img src="https://skillicons.dev/icons?i=unity,unreal"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=unity"/></td>
                 </tr>
                 <tr>
                     <td>CMS</td>
@@ -39,7 +39,7 @@
             <table>
                 <tr>
                     <td>IDEs and Editors</td>
-                    <td><img src="https://skillicons.dev/icons?i=androidstudio,codepen,vscode,sublime,vim,neovim,visualstudio"/></td>
+                    <td><img src="https://skillicons.dev/icons?i=vscode,sublime,vim,neovim,visualstudio"/></td>
                 </tr>
                 <tr>
                     <td>Operating Systems</td>
