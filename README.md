@@ -1,2 +1,2 @@
 ![banner](gh_banner.jpg)
-![skills](gh_skills.jpg)
+#### Self-taught programming hobbyist and high school student
